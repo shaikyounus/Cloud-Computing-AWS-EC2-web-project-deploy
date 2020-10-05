@@ -1,4 +1,4 @@
-# this application provides how to host our web application using AWS services. This project Court Case Management System is deployed as a web application using AWS cloud ec2 instance.It has client module,lawyer module and an admin login.
+# This application provides how to host our web application using AWS services. This project Court Case Management System is deployed as a web application using AWS cloud ec2 instance.It has client module,lawyer module and an admin login.
 
 The common features of the Court Case Management includes functions such as client module,lawyer module It also provides an admin module columns which helps to maintain the cases information of lawyer and client.
 
